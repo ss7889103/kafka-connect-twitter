@@ -2,10 +2,10 @@ name=twitter-source
 connector.class=com.eneco.trading.kafka.connect.twitter.TwitterSourceConnector
 tasks.max=1
 topic=test
-twitter.consumerkey=
-twitter.consumersecret=
-twitter.token=
-twitter.secret=
+twitter.consumerkey=(e0zsGWfHMRR9L7ENGymY2xuBF)
+twitter.consumersecret=(YdlhLyW2hziujvzv9TPpMHK16ytBB4JqC2xnYhraNEle4KBykK)
+twitter.token=(907830153383997440-b0PgHyW7VcrLYVPz26nEgbyQ8VICUjm)
+twitter.secret=(1KecfRVJXgEFVDjstEgCaIk1tGG2yh1DZvbGxJvmV0l9Y)
 
 # set output.format to string to output string key/values, it defaults to structured
 #output.format=string
